@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[23],{162:function(e,t,a){"use strict";a.r(t);var n=a(0),r=a.n(n),o=a(210),c=a(186);t.default=function(){return r.a.createElement(n.Fragment,null,r.a.createElement(c.a,{title:"Corporate Theme",keywords:["OAH","application","react"]}),r.a.createElement(o.a,{theme:"corporate"}))}}}]);
+//# sourceMappingURL=component---src-pages-themes-corporate-js-53f40835e3ae56adbac1.js.map

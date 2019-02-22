@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[24],{163:function(e,t,a){"use strict";a.r(t);var n=a(0),c=a.n(n),r=a(210),i=a(186);t.default=function(){return c.a.createElement(n.Fragment,null,c.a.createElement(i.a,{title:"Cosmic Theme",keywords:["OAH","application","react"]}),c.a.createElement(r.a,{theme:"cosmic"}))}}}]);
+//# sourceMappingURL=component---src-pages-themes-cosmic-js-c706a034bec6f841d2d2.js.map
