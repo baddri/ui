@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[25],{164:function(e,t,a){"use strict";a.r(t);var n=a(0),r=a.n(n),c=a(210),l=a(186);t.default=function(){return r.a.createElement(n.Fragment,null,r.a.createElement(l.a,{title:"Default Theme",keywords:["OAH","application","react"]}),r.a.createElement(c.a,{theme:"default"}))}}}]);
-//# sourceMappingURL=component---src-pages-themes-default-js-2198a21760996a6d53b3.js.map
