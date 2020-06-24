@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{RXBc:function(t,n,e){"use strict";e.r(n);e("pIFo");var c=e("q1tI"),o=e.n(c);n.default=function(){return o.a.useEffect((function(){window.location.replace("https://paljs.com/ui/getting-started")}),[]),o.a.createElement("div",null)}}}]);
+//# sourceMappingURL=component---src-pages-index-js-97167eb75f0cbebb63f2.js.map
